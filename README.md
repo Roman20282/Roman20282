@@ -1,6 +1,5 @@
 - Hi, I’m Roman Podlesniy
 - I’m interested in C# development
-- I’m currently learning OOP
 - I’m looking to collaborate on interesting projects
 - How to reach me? write on email: romanpodlesniy2021@gmail.com
 
